@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>github开源项目异次元发卡系统</title>
+      <link href="/:/post/%E5%8F%91%E5%8D%A1.html"/>
+      <url>/:/post/%E5%8F%91%E5%8D%A1.html</url>
+      
+        <content type="html"><![CDATA[<div class="custom-quote tip"><span class="custom-quote-svg"><svg width="24" height="24" viewBox="0 0 24 24" fill="" xmlns="http://www.w3.org/2000/svg" data-reactroot=""><path fill="" d="M20.86 14.13C20 14.7 19.56 15.74 19.77 16.76C20.13 18.55 18.55 20.13 16.76 19.77C15.74 19.57 14.7 20 14.13 20.86C13.12 22.38 10.89 22.38 9.88 20.86C9.3 20 8.26 19.56 7.24 19.77C5.45 20.13 3.87 18.55 4.23 16.76C4.43 15.74 4 14.7 3.14 14.13C1.62 13.12 1.62 10.89 3.14 9.88C4 9.3 4.44 8.26 4.23 7.24C3.87 5.45 5.45 3.87 7.24 4.23C8.26 4.44 9.3 4 9.87 3.14C10.88 1.62 13.11 1.62 14.12 3.14C14.7 4 15.74 4.44 16.76 4.23C18.55 3.87 20.13 5.45 19.77 7.24C19.56 8.26 20 9.3 20.86 9.87C22.38 10.88 22.38 13.12 20.86 14.13Z" undefined="1"></path><path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" stroke="" d="M12.01 15C12.01 14.5 12.01 14.5 12.01 14.5C12.04 13.75 13 13.46 14.04 12.2C14.41 11.74 14.69 11.41 14.86 10.85C15.15 9.95 14.92 9.18 14.86 9.02C14.8 8.79 14.52 8 13.72 7.46C13.06 7.02 12.42 7 12.14 7C11.9 7 11.36 7 10.78 7.3C10.28 7.56 9.98 7.9 9.83 8.1C9.24 8.82 9.06 9.63 9 10.06"></path><path stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" stroke="" d="M11.99 18H12.01"></path></svg></span><p class="custom-quote-title">环境要求</p><p>异次元店铺系统对环境也有一定的要求，但是不限制于只在服务器安装，你可以在虚拟主机以及各种操作系统上都可以完美安装。在安装程序之前，检查你的服务器或者虚拟主机是否支持以下环境：</p><p>PHP＞&#x3D;8.0<br>Mysql＞&#x3D;5.6</p></div><h1 id="快速体验"><a href="#快速体验" class="headerlink" title="快速体验"></a>快速体验</h1><ul><li>后台演示: <a href="http://162.14.111.118:91/admin">http://162.14.111.118:91/admin</a> 账号：<a href="mailto:&#100;&#101;&#x6d;&#111;&#64;&#x64;&#101;&#109;&#x6f;&#46;&#99;&#111;&#x6d;">&#100;&#101;&#x6d;&#111;&#64;&#x64;&#101;&#109;&#x6f;&#46;&#99;&#111;&#x6d;</a> 密码：123456</li><li>前台演示: <a href="http://162.14.111.118:91/">http://162.14.111.118:91</a> 账号：为了明天美好而战斗 密码：123456</li></ul><h1 id="功能简历"><a href="#功能简历" class="headerlink" title="功能简历"></a>功能简历</h1><p>异次元店铺系统乃<strong>荔枝店铺系统3.0</strong>完全从0代码的重构版本，原生php开发，数据库底层使用<strong>Eloquent ORM</strong>，模板渲染使用<strong>Smarty3.1</strong>以及<strong>PHP原生渲染</strong>，会话保持全程使用session ，下面是简单功能介绍，还有更多细节无法一一介绍，需要你自己下载并安装才能体验。</p><ul><li>支付系统，拥有强悍的插件扩展能力，现目今已经支持全网任意平台，任意支付渠道。</li><li>云更新，如果系统升级新版本，你无需进行繁琐操作，只需要在你的店铺后台就可以无缝完成升级。</li><li>商品销售，支持商品配图、会员价、游客价、邮件通知、卡密预选（用户可以预选自己想购买的那个账号或者卡号）、API对接、强制登录购买、强悍的自定义控件功能、限时秒杀、批发优惠、优惠卷、等众多功能。</li><li>分站系统，前台用户可以开通分站，分站可以独立运行，也可以卖主站商品，有点类似商业店铺了。</li><li>会员系统，会员&#x2F;商户融为一体，支持会员等级，以及商户等级完全自定义，以及商品可自定义会员等级对应价格。</li><li>推广&#x2F;代理系统，拥有三级分销返佣功能，注册账号即实现自动发展下级。</li><li>共享店铺系统，可以在后台直接对接别人的店铺，通过扣除余额来进行无感知进货。</li><li>应用商店，拥有众多插件以及模板，让你的店铺变得格外强大。</li><li>界面美观，完美支持PC和手机，真正的内外二次元文化。</li><li>强悍的扩展能力，你可以通过本程序在几分钟之内快速的实现你任意想实现的在线购物功能，例子如下：<ul><li>游戏方面，物品购买即时到玩家背包</li><li>商业软件自动授权</li><li>商业软件余额充值</li></ul></li><li>还有更多强大的功能，需要安装自己发掘。</li></ul><h1 id="开始安装"><a href="#开始安装" class="headerlink" title="开始安装"></a>开始安装</h1><ul><li>下载源码包: <a href="https://faka.wiki/acgshop-latest.zip">https://faka.wiki/acgshop-latest.zip</a> </li><li>配置伪静态<ul><li>Apache伪静态规则：无需配置，规则就是程序根目录的.htaccess文件</li><li>Nginx伪静态规则：</li></ul></li></ul><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">location &#x2F; &#123;    if (!-e $request_filename)&#123;            rewrite ^(.*)$ &#x2F;index.php?s&#x3D;$1 last; break;    &#125;&#125;</code></pre><ul><li>Windows IIS 伪静态规则：</li></ul><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">&lt;rules&gt;  &lt;rule name&#x3D;&quot;acg_rewrite&quot; stopProcessing&#x3D;&quot;true&quot;&gt;      &lt;match url&#x3D;&quot;^(.*)$&quot;&#x2F;&gt;      &lt;conditions logicalGrouping&#x3D;&quot;MatchAll&quot;&gt;          &lt;add input&#x3D;&quot;&#123;HTTP_HOST&#125;&quot; pattern&#x3D;&quot;^(.*)$&quot;&#x2F;&gt;          &lt;add input&#x3D;&quot;&#123;REQUEST_FILENAME&#125;&quot; matchType&#x3D;&quot;IsFile&quot; negate&#x3D;&quot;true&quot;&#x2F;&gt;          &lt;add input&#x3D;&quot;&#123;REQUEST_FILENAME&#125;&quot; matchType&#x3D;&quot;IsDirectory&quot; negate&#x3D;&quot;true&quot;&#x2F;&gt;      &lt;&#x2F;conditions&gt;      &lt;action type&#x3D;&quot;Rewrite&quot; url&#x3D;&quot;index.php?s&#x3D;&#123;R:1&#125;&quot;&#x2F;&gt;  &lt;&#x2F;rule&gt;&lt;&#x2F;rules&gt;</code></pre><ul><li><p>配置完伪静态后，访问你的网站首页，即可进行安装。</p></li><li><p>安装完成后，后台地址是：<strong>https:&#x2F;&#x2F;你的域名&#x2F;admin</strong></p></li></ul>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 网站源码 </tag>
+            
+            <tag> 网站搭建 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>安卓V/AB架构的详细分析</title>
       <link href="/:/post/%E5%AE%89%E5%8D%93.html"/>
       <url>/:/post/%E5%AE%89%E5%8D%93.html</url>
